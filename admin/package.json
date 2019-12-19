@@ -1,0 +1,30 @@
+{
+  "name": "mecbox",
+  "description": "mecbox",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt-ts",
+    "build": "nuxt-ts build",
+    "start": "nuxt-ts start",
+    "generate": "nuxt-ts generate"
+  },
+  "dependencies": {
+    "@nuxt/typescript-runtime": "0.3.2",
+    "@nuxtjs/axios": "5.8.0",
+    "js-cookie": "^2.2.1",
+    "nuxt": "2.10.2",
+    "nuxt-property-decorator": "2.5.0",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "view-design": "^4.0.0",
+    "vue2-editor": "^2.10.2",
+    "vuex-class": "0.3.2"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "0.5.1",
+    "@types/vue2-editor": "^2.6.0",
+    "prettier": "1.15.3",
+    "vuex-class-component": "1.4.3"
+  }
+}
