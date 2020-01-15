@@ -1,0 +1,9 @@
+<template>
+    <div>
+        name
+        des
+        CategoryID
+        type
+        link
+    </div>
+</template>
